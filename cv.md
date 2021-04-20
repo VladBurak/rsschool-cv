@@ -21,3 +21,10 @@ Projects from courses
 * Application that converts currency. Written on Objective - C with using Cocoapods. 
 2. AppForDistance (https://github.com/VladBurak/AppCalculatingDistance.git) 
 * In this App you can indicate point A, where you are now,for example, and point B, where you would like to go and the application will calculate the calculation again using CocoaPods. 
+Education
+----------
+https://coursera.org/share/a793d228b611d5f7fc97a9a163dd460f (Objective - C) 
+
+Languages
+---------
+English B1. 
